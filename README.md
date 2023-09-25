@@ -15,7 +15,7 @@ git clone https://github.com/Shoib007/netflix-clone-fullstack.git
 ```
 cd netflix-clone-fullstack
 ```
-# 3. Run the following command to start front-end and back-end servers and nginx
+## 3. Run the following command to start front-end and back-end servers and nginx
 ```
 docker-compose build
 ```
